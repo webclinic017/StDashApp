@@ -38,7 +38,7 @@ or clone this repo and run `streamlit run core/app.py`
 
 
 ---
-## Want to understand??
+## Want to understand code??
 
 If you want to understand the code, I suggest to watch you the following videos-
 
