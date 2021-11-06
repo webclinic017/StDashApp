@@ -1,5 +1,9 @@
 # StDashApp
-Stock Analysis dashboard Using Streamlit and Python
+Stock Analysis Dashboard Using Streamlit and Python
+
+
+If you found the content useful and want to support my work, you can buy me a coffee! 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/StreamAlpha)
 
 ---
 This Dashboard app includes following analysis using bhavcopy and option chain:
